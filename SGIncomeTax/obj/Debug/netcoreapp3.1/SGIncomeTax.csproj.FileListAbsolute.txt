@@ -1,0 +1,13 @@
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.exe
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.deps.json
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.runtimeconfig.json
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.runtimeconfig.dev.json
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.dll
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\bin\Debug\netcoreapp3.1\SGIncomeTax.pdb
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.csprojAssemblyReference.cache
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.AssemblyInfoInputs.cache
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.AssemblyInfo.cs
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.csproj.CoreCompileInputs.cache
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.dll
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.pdb
+C:\Users\Mikel's\source\repos\SGIncomeTax\SGIncomeTax\obj\Debug\netcoreapp3.1\SGIncomeTax.genruntimeconfig.cache
